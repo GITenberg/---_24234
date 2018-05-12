@@ -1,0 +1,31 @@
+_repo: '---_24234'
+_version: 0.1.0
+alternative_title:
+- Tao hua shan
+- Peach Blossom Fan
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Kong, Shangren
+    alias: 桃花扇
+    birthdate: 1648
+    deathdate: 1718
+    gutenberg_agent_id: '26337'
+    url: http://www.gutenberg.org/2009/agents/26337
+    wikipedia: http://en.wikipedia.org/wiki/Kong_Shangren
+description: ''
+gutenberg_issued: '2008-01-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24234'
+language: zh
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Chinese drama'
+- !lcc 'PL'
+title: 桃花扇
+url: http://www.gutenberg.org/ebooks/24234
